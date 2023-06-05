@@ -2,6 +2,7 @@
 mi_segundo_repo
 
 ## Lista de series preferidas:
-
+```
 Gambito de Dama - Maria Teresa
-\nSaga de Marvel
+Saga de Marvel
+```
